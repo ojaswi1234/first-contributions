@@ -1,6 +1,8 @@
 # Contributors
 -[OjaswiBhardwaj] (https://github.com/Ojaswi1234) - Hey There, This is my first pull requests 04/07/2025
 -[BChaput] (https://github.com/BrianChaput) -Howdy World! 7/3/2025
+-[OsirisNexus] (https://github.com/osirisNexus) - First Open Src Contribution on the 4th of July!!! 07/04/2025
+-[yrdaman] (https://github.com/yrdaman) - Hola Open src World !!! 04/07/2025
 -[PraMaratha] (https://github.com/PraMaratha) - Hello, Everyone!
 -[ArshiaAA9] (https://github.com/ArshiaAA9/first-contributions) - if you are reading this, i hope you have a great carrier ahead of you. 3/7/2025
 - [Anaymehra] (https://github.com/anaymehra/first-contributions) - I will be doing better, JSR 4/7/2025
@@ -8,6 +10,7 @@
 - [Carlos Eduardo Ferreira](https://github.com/Carloseduardo-dev) - Olá , Eu sou o Cadu!
 - [Emadaddin Alqadasi] (https://github.com/EmadCodesPy) Hello everyone, This is my first contribution ever - 03/07/2025
 - [Daksh Aggarwal] (https://github.com/Daksh-Aggarwal) Hi everyone! First ever contribution on 3 July 2025!
+- [RamonMarino] (https://github.com/RamonMarino3005)
 -[Tawsia](https://github.com/tawsia)- First Contribution Ever. 03-07-2025
 -[Gilbert] (https://github.com/Girome01) -Hello, first contribution to open source date - 02/07/2025
 -[Ali] (https://github.com/ali8646) - 
@@ -16,6 +19,8 @@
 Hello guys, My name is Milad Kheradmand.
 vanakkam da Mapala...
 -[Pietro Franca] (https://github.com/pietro-franca)
+-[Adameji Israel] (https://github.com/ireoluwa12345)
+-[Anuj Kulkarni](https://github.com/steam-bell-92) - Hye guys, this is my first contribution to an unknown repo / source (date - 05-0702025 in form {dd/mm/yyyy})
 -[Shivani] (https://github.com/Shivtanu) - Hey guys, first contribution to open source dated - 02/07/2025
 -[Shivam] (https://github.com/Shivam040) - Hello! 
 -[Rishabh] (https://github.com/RishabhSinghMoonCake) - Hey there
@@ -38,6 +43,7 @@ vanakkam da Mapala...
 -[Briand Miranda](https://github.com/briandms)
 -[Rhonda Ojongmboh](https://github.com/rhondaoj4) - first of many open source contributions. Beginning of the pursuit of an emmaculate career
 -[Moosa Ali](https://github.com/Moosa-Aly) - Hi, guys how are you?
+-[Bikram](https://github.com/bikramroyutsa/) - Hi, commiting to os for the first time
 -[Miska Braun](https://github.com/MiskaB) - Never follow the beaten path, make your own instead, they said...
 -[Ajith Binny](https://github.com/AjithBinnyK) - Pooram kodi keri makkale....
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
@@ -60,6 +66,7 @@ vanakkam da Mapala...
 - [Collin7273] (https://github.com/Collin7273) - Hello there, nice to meet you!!
 - [loleczekqdev](https://github.com/loleczekqdev)
 - [Nelson Muñoz](https://github.com/Ginto11) - Junior developer in .NET, Angular, and SQL, with experience creating REST APIs and implementing relational databases.
+- [Pedro Echavarria](https://github.com/pechavarria62) - Hello! I'm a mid level dev, i know Python|Javascript|Typescript|PHP and I'm learnig .Net and C#, this is awesome.
 - [Hafiz Azhari](https://github.com/mhafizazh) - my first contribution!
 - [Sudhir Yadav](https://github.com/sky-sudhir) - Everthing Counts.
 - [swaroop-phatak] (https://github.com/swaroop-phatak) - Heyy, this is my first contribution, nice to meet you all!
@@ -180,6 +187,7 @@ Achal Agrawal
 - [Jenna Lee] (https://github.com/roasted-oolong)
 - [John Erol Tambal](https://github.com/Lore-d-J) HELLLOOOOOOOOOO this is my first contribution ^^
 - [Mathias M. L.](https://github.com/math227v) First time contributing! 2025-06-29
+- [Swayam Chaurasia] (https://github.com/GreenOrange44) Learning to contribute to open source projects via Git :)
 -[Jeremiah Lillon] (https://github.com/Barwolf) Lots to learn! 06/17/2025
 -[Zakiya khan](https://github.com/zakiyakhan1605/first-contributions#)its me...
 -[Ojas Mhatre] (https://github.com/mhatreojas)  Hell yeah
@@ -336,6 +344,7 @@ Achal Agrawal
 - [Szabolcs Cseres](https://github.com/szabicseres)
 - [Ethan Hom](https://github.com/EthanHom)
 - [jonvert](https://github.com/jonvert)
+- [Masamichi Kaneko](https://github.com/kaneko-masa) - hope this goes well for me in the future 2025, July 3
 - [mildw428] (https://github.com/mildw428)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [TEJAS](https://github.com/Surge77) **Ready to Blast it**
@@ -1684,6 +1693,7 @@ Matthew Burgos
 - [Dev Makwana](https://github.com/Phaedrus1301)
 - [Olivier Faivre]
 - [hh]
+-[Freya0527](https://github.com/Freya0527)
 - [Robin Tournadre](https://github.com/RobTou)
 - [Sean Erfan](https://github.com/Shameed4)
 - [Tushar Shinde](https://github.com/Tushar-Shinde31)
@@ -2301,6 +2311,7 @@ Matthew Burgos
 - [Fuad Hasan](https://github.com/itsfuad)
 - [meenakshiruia](https://github.com/meenakshiruia)
 - [gleisomSilva](https://github.com/Gleison-Silva-02)
+- [dbolate](https://github.com/dbolate)
 - [S.Yukiko](https://github.com/yuki-git-9)
 - [Joshua Luca](https://github.com/joshluca98)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
@@ -4489,6 +4500,7 @@ John Morgan Hello!
 - Satwika Chowdary Boppudi
 - [Richard Kelly] (https://github.com/Hammersmythe) Hi, I'm Richard from Austin
 - [Ambar Kansal]  (https://github.com/ambarkansal) Hi, I'm Ambar from India
+- [Alif] (https://github.com/Alif416) Hi I'm Labibul Ahsan Alif From Bangladesh.
 - [Saniya Guguloth](https://github.com/Saniyaguguloth)
 - [Tan] (https://github.com/tannistha12) - Hello I am Tannistha ~
 - [kyiroywops](https://github.com/kyiroywops)
@@ -4552,3 +4564,11 @@ Artem Ryabtcev
 Jin
 - [yyubin](https://github.com/yyubin) - hello world
 - [Agam singh](https://github.com/agamsiingh) - Hello World
+- [Ipshita Bhardwaj](https://github.com/ipshitabhardwaj)
+- [Manuel Díaz](https://github.com/kmanuelDC/first-contributions) - firs fork
+- [ressoll](https://github.com/ressoll) - hello world
+- [RyuzuTakalov](https://github.com/RyuzuTakalov) - There so many of us!
+- [Pritiranjan Patra](https://github.com/PritiranjanPatra2) - Never Give Up
+- [Jueda Sherifi] (https://github.com/juedash)
+-[Naveena](https://github.com/Nav99-git)- It's never too late to begin !!
+- [Zack Bou](https://github.com/brainchemist)- Trust no man, Fear no b!tch !
